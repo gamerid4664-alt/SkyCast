@@ -1,0 +1,9 @@
+body{
+    background-image: url("resources/images/aerial_view_of_clouds_under_light_blue_sky_4k_hd_light_blue-1366x768.jpg");
+    background-repeat: none;
+    background-position: center;
+    background-size: cover;
+
+    background-attachment: fixed;
+}
+
